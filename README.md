@@ -1,2 +1,3 @@
 # repo2fork
-to fork
+to fork excercise in class
+
